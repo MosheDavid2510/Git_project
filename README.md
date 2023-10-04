@@ -10,7 +10,8 @@ This is my first project. it contains Html, css and sass .
 To use this project, follow these steps:
 1. Run the application: `npm start`
 2. Open your web browser and go to: `http://localhost:3000`
-3. Enjoy the project.
+3. index.html is the main file of this project .
+4. Enjoy the project.
 
 ## Contributing
 If you'd like to contribute to this project, please follow these guidelines:
